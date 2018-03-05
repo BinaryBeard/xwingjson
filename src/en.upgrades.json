@@ -200,7 +200,7 @@
         "name": "Deadeye",
         "cost": 1,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Elite",
         "text": "You may treat the <strong>Attack (target lock):</strong> header as <strong>Attack (focus):</strong>.<br /><br />When an attack instructs you to spend a target lock, you may spend a focus token instead.",
@@ -322,7 +322,7 @@
         "id": "draw_their_fire"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -334,7 +334,7 @@
         "id": "luke_skywalker"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -346,7 +346,7 @@
         "id": "nien_nunb"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -472,7 +472,7 @@
         "id": "sensor_jammer"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -484,7 +484,7 @@
         "id": "darth_vader"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -509,8 +509,8 @@
         "name": "Navigator",
         "cost": 3,
         "size": [
-            "small",
-            "large"
+            "Small",
+            "Large"
         ],
         "type": "Crew",
         "text": "When you reveal a maneuver, you may rotate your dial to another maneuver with the same bearing.<br /><br />You cannot rotate to a red maneuver if you have any stress tokens.",
@@ -645,7 +645,7 @@
         "id": "tactician"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -657,7 +657,7 @@
         "id": "r2_d2"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -780,7 +780,7 @@
         "id": "proton_rockets"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -792,7 +792,7 @@
         "id": "kyle_katarn"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -804,14 +804,14 @@
         "id": "jan_ors"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
         "name": "Toryn Farr",
         "cost": 6,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Crew",
         "text": "<strong>Action:</strong> Spend any amount of energy to choose that many enemy ships at Range 1-2. Remove all focus, evade, and blue target lock tokens from those ships.",
@@ -841,7 +841,7 @@
         "name": "WED-15 Repair Droid",
         "cost": 2,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Crew",
         "text": "<strong>Action:</strong> Spend 1 energy to discard 1 of your facedown Damage cards, or spend 3 energy to discard 1 of your faceup Damage cards.",
@@ -849,14 +849,14 @@
         "id": "wed_15_repair_droid"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
         "name": "Carlist Rieekan",
         "cost": 3,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Crew",
         "text": "At the start of the Activation phase, you may discard this card to treat each friendly ship's pilot skill value as \"12\" until the end of the phase.",
@@ -864,14 +864,14 @@
         "id": "carlist_rieekan"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
         "name": "Jan Dodonna",
         "cost": 6,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Crew",
         "text": "When another friendly ship at Range 1 is attacking, it may change 1 of its [Hit] results to a [Critical Hit].",
@@ -918,7 +918,7 @@
         "id": "frequency_jammer"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -930,7 +930,7 @@
         "id": "han_solo"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -951,14 +951,14 @@
         "id": "targeting_coordinator"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
         "name": "Raymus Antilles",
         "cost": 6,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Crew",
         "text": "At the start of the Activation phase, choose 1 enemy ship at Range 1-3. You may look at that ship's chosen maneuver. If the maneuver is white, assign that ship 1 stress token.",
@@ -993,7 +993,7 @@
         "id": "engineering_team"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -1005,7 +1005,7 @@
         "id": "lando_calrissian"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -1017,7 +1017,7 @@
         "id": "mara_jade"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -1038,7 +1038,7 @@
         "id": "stay_on_target"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -1050,7 +1050,7 @@
         "id": "dash_rendar"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -1071,7 +1071,7 @@
         "id": "lone_wolf"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -1083,7 +1083,7 @@
         "id": "ysanne_isard"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -1095,7 +1095,7 @@
         "id": "moff_jerjerrod"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -1130,7 +1130,7 @@
         "id": "ion_torpedoes"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -1160,7 +1160,7 @@
         "id": "inertial_dampeners"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -1275,7 +1275,7 @@
         "id": "r4_b11"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": true,
@@ -1287,7 +1287,7 @@
         "id": "outlaw_tech"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -1363,14 +1363,14 @@
         "id": "calculation"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
         "name": "Grand Moff Tarkin",
         "cost": 6,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Crew",
         "text": "At the start of the Combat phase, you may choose another ship at Range 1-4. Either remove 1 focus token from the chosen ship or assign 1 focus token to that ship.",
@@ -1378,14 +1378,14 @@
         "id": "grand_moff_tarkin"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
         "name": "Captain Needa",
         "cost": 2,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Crew",
         "text": "If you overlap an obstacle during the Activation phase, do not suffer 1 faceup damage card. Instead, roll 1 attack die. On a [Hit] or [Critical Hit] result, suffer 1 damage.",
@@ -1393,14 +1393,14 @@
         "id": "captain_needa"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
         "name": "Admiral Ozzel",
         "cost": 2,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Crew",
         "text": "<strong>Energy:</strong> You may remove up to 3 shields from your ship. For each shield removed, gain 1 energy.",
@@ -1408,7 +1408,7 @@
         "id": "admiral_ozzel"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -1429,7 +1429,7 @@
         "id": "glitterstim"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -1457,7 +1457,7 @@
         "name": "Lightning Reflexes",
         "cost": 1,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Elite",
         "text": "After you execute a white or green maneuver on your dial, you may discard this card to rotate your ship 180&deg;. Then receive 1 stress token <strong>after</strong> the \"Check Pilot Stress\" step.",
@@ -1564,7 +1564,7 @@
         "name": "Shield Technician",
         "cost": 1,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Crew",
         "text": "When you perform a recover action, instead of spending all of your energy, you can choose any amount of energy to spend.",
@@ -1603,7 +1603,7 @@
         "name": "Juke",
         "cost": 2,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Elite",
         "text": "When attacking, if you have an evade token, you may change 1 of the defender's [Evade] results to a [Focus] result.",
@@ -1821,7 +1821,7 @@
         "id": "heavy_scyk_interceptor"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -1951,7 +1951,7 @@
         "name": "Anti-Pursuit Lasers",
         "cost": 2,
         "size": [
-            "large"
+            "Large"
         ],
         "type": "Modification",
         "text": "After an enemy ship executes a maneuver that causes it to overlap your ship, roll 1 attack die.  On a [Hit] or [Critical Hit] result, the enemy ship suffers 1 damage.",
@@ -2014,7 +2014,7 @@
             "GR-75 Medium Transport"
         ],
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Modification",
         "text": "Increase your hull value by 2 and your shield value by 1.",
@@ -2047,7 +2047,7 @@
         "name": "Countermeasures",
         "cost": 3,
         "size": [
-            "large"
+            "Large"
         ],
         "type": "Modification",
         "text": "At the start of the Combat phase, you may discard this card to increase your agility value by 1 until the end of the round. Then you may remove 1 enemy target lock from your ship.",
@@ -2059,7 +2059,7 @@
         "name": "Tactical Jammer",
         "cost": 1,
         "size": [
-            "large"
+            "Large"
         ],
         "type": "Modification",
         "text": "Your ship can obstruct enemy attacks.",
@@ -2125,7 +2125,7 @@
         "name": "Ion Projector",
         "cost": 2,
         "size": [
-            "large"
+            "Large"
         ],
         "type": "Modification",
         "text": "After an enemy ship executes a maneuver that causes it to overlap your ship, roll 1 attack die. On a [Hit] or [Critical Hit] result, the enemy ship receives 1 ion token.",
@@ -2176,7 +2176,7 @@
         "name": "Cloaking Device",
         "cost": 2,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Illicit",
         "text": "<strong>Action:</strong> Perform a free cloak action.<br /><br />At the end of each round, roll 1 attack die. On a [Focus] result, discard this card, then decloak or discard your cloak token.",
@@ -2222,7 +2222,7 @@
         "id": "xx_23_s_thread_tracers"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -2247,7 +2247,7 @@
         "name": "Automated Protocols",
         "cost": 5,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Modification",
         "text": "Once per round, after you perform an action that is not a recover or reinforce action, you may spend 1 energy to perform a free recover or reinforce action.",
@@ -2259,7 +2259,7 @@
         "name": "Optimized Generators",
         "cost": 5,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Modification",
         "text": "Once per round, when you assign energy to an equipped Upgrade card, gain 2 energy.",
@@ -2271,7 +2271,7 @@
         "name": "Ordnance Tubes",
         "cost": 5,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Modification",
         "text": "You may treat each of your [Hardpoint] upgrade icons as a [Torpedo] or [Missile] upgrade icon.<br /><br />When you are instructed to discard a [Torpedo] or [Missile] Upgrade card, do not discard it.",
@@ -2345,7 +2345,7 @@
         "id": "mist_hunter"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -2357,7 +2357,7 @@
         "id": "kanan_jarrus"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -2387,7 +2387,7 @@
         "name": "Reinforced Deflectors",
         "cost": 3,
         "size": [
-            "large"
+            "Large"
         ],
         "type": "System",
         "text": "After defending, if you suffered a combination of 3 or more damage and critical damage during the attack, recover 1 shield (up to your shield value).",
@@ -2404,7 +2404,7 @@
         "id": "targeting_astromech"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -2416,7 +2416,7 @@
         "id": "ezra_bridger"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -2428,7 +2428,7 @@
         "id": "chopper"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -2440,7 +2440,7 @@
         "id": "hera_syndulla"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -2501,7 +2501,7 @@
         "name": "Construction Droid",
         "cost": 3,
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Crew",
         "text": "When you perform a recover action, you may spend 1 energy to discard 1 facedown Damage card.",
@@ -2509,7 +2509,7 @@
         "id": "construction_droid"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -2578,7 +2578,7 @@
         "id": "guidance_chips"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -2590,7 +2590,7 @@
         "id": "zuckuss"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -2638,7 +2638,7 @@
         "id": "rage"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -2660,7 +2660,7 @@
         "id": "r5_p8"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -2672,7 +2672,7 @@
         "id": "boba_fett"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -2684,7 +2684,7 @@
         "id": "gonk"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -2738,7 +2738,7 @@
         "id": "black_one"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": true,
@@ -2811,7 +2811,7 @@
         "name": "Vectored Thrusters",
         "cost": 2,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Modification",
         "text": "Your action bar gains the [Barrel Roll] action icon.",
@@ -2846,7 +2846,7 @@
         "id": "sensor_cluster"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -2858,7 +2858,7 @@
         "id": "fearlessness"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -2870,7 +2870,7 @@
         "id": "ig_88d"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -2882,7 +2882,7 @@
         "id": "latts_razzi"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -2907,7 +2907,7 @@
         "name": "Rigged Cargo Chute",
         "cost": 1,
         "size": [
-            "large"
+            "Large"
         ],
         "type": "Illicit",
         "text": "<strong>Action:</strong> Discard this card to <strong>drop</strong> one cargo token.",
@@ -2936,7 +2936,7 @@
         "id": "black_market_slicer_tools"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -2951,7 +2951,7 @@
         "id": "sabine's_masterpiece"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -2963,7 +2963,7 @@
         "id": "kylo_ren"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -2996,7 +2996,7 @@
         "id": "a_score_to_settle"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -3008,7 +3008,7 @@
         "id": "jyn_erso"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -3073,7 +3073,7 @@
         "name": "Burnout SLAM",
         "cost": 1,
         "size": [
-            "large"
+            "Large"
         ],
         "type": "Illicit",
         "text": "Your action bar gains the [SLAM] action icon.<br /><br />After you perform a SLAM action, discard this card.",
@@ -3081,7 +3081,7 @@
         "id": "burnout_slam"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -3093,7 +3093,7 @@
         "id": "rey"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -3109,7 +3109,7 @@
         "name": "Primed Thrusters",
         "cost": 1,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Tech",
         "text": "Stress tokens do not prevent you from performing boost or barrel roll actions unless you have 3 or more stress tokens.",
@@ -3176,7 +3176,7 @@
         "id": "emp_device"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -3191,7 +3191,7 @@
         "id": "captured_tie"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -3203,7 +3203,7 @@
         "id": "captain_rex"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -3242,7 +3242,7 @@
         "id": "hyperwave_comm_scanner"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -3254,7 +3254,7 @@
         "id": "bodhi_rook"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -3337,7 +3337,7 @@
         "id": "expertise"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -3367,7 +3367,7 @@
         "id": "heavy_laser_turret"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -3379,7 +3379,7 @@
         "id": "cikatro_vizago"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -3389,7 +3389,7 @@
             "CR90 Corvette (Fore)"
         ],
         "size": [
-            "huge"
+            "Huge"
         ],
         "type": "Crew",
         "text": "At the start of the End phase, you may spend 1 energy to replace a faceup [Crew] or [Team] Upgrade card you have equipped with another Upgrade card of the same type of equal or fewer squad points.",
@@ -3479,7 +3479,7 @@
         "id": "quick_release_cargo_locks"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -3492,7 +3492,7 @@
     },
     {
         "attack": 4,
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -3508,7 +3508,7 @@
         "id": "arc_caster"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -3560,7 +3560,7 @@
         "id": "synced_turret"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -3572,7 +3572,7 @@
         "id": "wookiee_commandos"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -3588,7 +3588,7 @@
         "name": "Intensity",
         "cost": 2,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Elite",
         "text": "After you perform a boost or barrel roll action, you may assign 1 focus or evade token to your ship. If you do, flip this card.",
@@ -3600,7 +3600,7 @@
         "name": "Intensity (Exhausted)",
         "cost": 2,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Elite",
         "text": "At the end of the Combat phase, you may spend 1 focus or evade token to flip this card.",
@@ -3641,14 +3641,14 @@
         "id": "ig_rm_thug_droids"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
         "name": "Selflessness",
         "cost": 1,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Elite",
         "text": "When a friendly ship at Range 1 is hit by an attack, you may discard this card to suffer all uncanceled [Hit] results instead of the target ship.",
@@ -3674,7 +3674,7 @@
         "id": "bomblet_generator"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -3852,7 +3852,7 @@
         "name": "Linked Battery",
         "cost": 2,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Cannon",
         "text": "When attacking with a primary weapon or [Cannon] seconday weapon, you may reroll 1 attack die.",
@@ -3878,7 +3878,7 @@
         "id": "contraband_cybernetics"
     },
     {
-        "factions": [
+        "faction": [
             "Scum and Villainy"
         ],
         "limited": false,
@@ -3954,7 +3954,7 @@
         "name": "Debris Gambit",
         "cost": 2,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Elite",
         "text": "<strong>Action:</strong> Assign 1 evade token to your ship for each obstacle at Range 1, to a maximum of 2 evade tokens.",
@@ -3966,7 +3966,7 @@
         "name": "Threat Tracker",
         "cost": 3,
         "size": [
-            "small"
+            "Small"
         ],
         "type": "Tech",
         "text": "When an enemy ship inside your firing arc at Range 1-2 becomes the active ship during the Combat phase, you may spend your target lock on that ship to perform a free boost or barrel roll action if that action is on your action bar.",
@@ -4006,7 +4006,7 @@
         "id": "targeting_scrambler"
     },
     {
-        "factions": [
+        "faction": [
             "Rebel Alliance"
         ],
         "limited": false,
@@ -4018,7 +4018,7 @@
         "id": "saw_gerrera"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
@@ -4030,7 +4030,7 @@
         "id": "director_krennic"
     },
     {
-        "factions": [
+        "faction": [
             "Galactic Empire"
         ],
         "limited": false,
